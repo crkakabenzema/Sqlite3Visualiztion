@@ -34,7 +34,7 @@ def fw(str):
 fw('<html>')
 fw('<head>')
 fw('<meta charset="utf-8">')
-fw('<link href="minimal-table.css" rel="stylesheet" type="text/css">')
+fw('<link href="table.css" rel="stylesheet" type="text/css">')
 fw('</head>')
 fw('<body>')
 fw('<h1>')
